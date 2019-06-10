@@ -6,7 +6,7 @@
 [![Node Engine](https://badgen.now.sh/npm/node/@veestore/sorted-map)](https://www.npmjs.com/package/@veestore/sorted-map)
 [![Build Status](https://badgen.now.sh/circleci/github/veestore/sorted-map)](https://circleci.com/gh/veestore/sorted-map)
 [![Codecov](https://badgen.now.sh/codecov/c/github/veestore/sorted-map)](https://codecov.io/gh/veestore/sorted-map)
-[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/)
+[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/) [![Greenkeeper badge](https://badges.greenkeeper.io/veestore/sorted-set.svg)](https://greenkeeper.io/)
 
 ## Installation
 
